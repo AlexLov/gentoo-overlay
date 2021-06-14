@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person" proxied="yes">
+		<email>alex@alexlov.com</email>
+		<name>Alex Lov</name>
+	</maintainer>
+</pkgmetadata>
