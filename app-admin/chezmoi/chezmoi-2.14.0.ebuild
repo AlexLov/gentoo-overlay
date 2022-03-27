@@ -1222,7 +1222,7 @@ RESTRICT="mirror"
 DEPEND="dev-vcs/git"
 RDEPEND="${DEPEND}"
 
-DOCS=( "${S}/docs" )
+DOCS=( "${S}/assets/chezmoi.io/docs" )
 
 src_compile() {
 	go build -o ${PN} -v -work -x -ldflags \
