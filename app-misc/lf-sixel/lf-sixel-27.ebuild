@@ -6,7 +6,7 @@ EAPI=7
 inherit go-module bash-completion-r1 desktop xdg
 
 SRC_URI="https://github.com/horriblename/lf/archive/r${PV}-sixel.tar.gz -> ${P}.tar.gz"
-SRC_URI+=" https://github.com/AlexLov/gentoo-portage-deps/raw/main/${P}-vendor.tar.xz"
+SRC_URI+=" https://github.com/AlexLov/gentoo-portage-deps/raw/main/${P}-deps.tar.xz"
 
 
 DESCRIPTION="Terminal file manager, fork with sixel support"
